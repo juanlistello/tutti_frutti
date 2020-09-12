@@ -1,0 +1,13 @@
+li {
+  text-align: center;
+  line-height: 2rem;
+  font-size: 1.3rem;
+}
+ul {
+  margin: 0rem !important;
+  padding: 1rem;
+}
+
+.letras-resultados {
+  font-size: 3rem;
+}
